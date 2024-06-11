@@ -6,8 +6,8 @@ Xây dựng web quản lý bán ốc vít.
 Đây là một dự án trường.
 
 ## Công nghệ
-- HTML, CSS, JS, Bootstrap 4, jQuery
-- C#, ASP.NET (Web Form)
+- Frontend: HTML, CSS, JS, Bootstrap 4, jQuery
+- Backend: C#, ASP.NET (Web Form), SQL
 
 ## Các chức năng
 + Mua bán ốc vít, lập hoá đơn
