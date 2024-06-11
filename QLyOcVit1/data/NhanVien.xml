@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="http://tempuri.org/NhanVien.xsd">
+  <NhanVien MaNV="1">
+    <TenNV>admin</TenNV>
+    <GioiTinh>false</GioiTinh>
+    <Email>hoangkha52@gmail.com</Email>
+    <SDT>0922255588</SDT>
+    <NgaySinh>2001-05-03</NgaySinh>
+    <TaiKhoan>admin</TaiKhoan>
+    <MatKhau>admin</MatKhau>
+  </NhanVien>
+  <NhanVien MaNV="2">
+    <TenNV>Hoàng Duy</TenNV>
+    <GioiTinh>false</GioiTinh>
+    <Email>duyhoang@gmail.com</Email>
+    <SDT>012345678</SDT>
+    <NgaySinh>2000-01-02</NgaySinh>
+    <TaiKhoan>hoangduy</TaiKhoan>
+    <MatKhau>12345</MatKhau>
+  </NhanVien>
+  <NhanVien MaNV="0">
+    <TenNV>Trần Thị Hà</TenNV>
+    <GioiTinh>true</GioiTinh>
+    <Email>trangha@ah.com</Email>
+    <SDT>0114253647</SDT>
+    <NgaySinh>1992-05-20</NgaySinh>
+    <TaiKhoan>tranthiha</TaiKhoan>
+    <MatKhau>abcde</MatKhau>
+  </NhanVien>
+</root>

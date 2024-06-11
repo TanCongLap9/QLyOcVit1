@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="http://tempuri.org/NhaSanXuat.xsd">
+  <NhaSanXuat>
+    <MaNSX>2</MaNSX>
+    <TenNSX>Công ty sản xuất bóng bàn Vĩnh Phúc</TenNSX>
+    <DiaChi>28 đường Đồng Đen, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam</DiaChi>
+  </NhaSanXuat>
+  <NhaSanXuat>
+    <MaNSX>3</MaNSX>
+    <TenNSX>Nhà máy nước sạch Vĩnh Long</TenNSX>
+    <DiaChi>4-6 Quốc lộ 1K, Đông Hoà, Dĩ An, Bình Dương, Việt Nam</DiaChi>
+  </NhaSanXuat>
+  <NhaSanXuat>
+    <MaNSX>4</MaNSX>
+    <TenNSX>Công ty sản xuất dụng cụ thể thao R500</TenNSX>
+    <DiaChi>38-40 Phú Châu, Tam Phú, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam</DiaChi>
+  </NhaSanXuat>
+  <NhaSanXuat>
+    <MaNSX>5</MaNSX>
+    <TenNSX>Công ty sản xuất dụng cụ thể thao Phù Thuỷ</TenNSX>
+    <DiaChi>86/5 đường Trường Chinh, Phường 12, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam</DiaChi>
+  </NhaSanXuat>
+  <NhaSanXuat>
+    <MaNSX>6</MaNSX>
+    <TenNSX>Công ty ốc vít Phú Thọ</TenNSX>
+    <DiaChi>860 đường Âu Cơ, Phường 13, Tân Bình, Thành phố Hồ Chí Minh, Việt Nam</DiaChi>
+  </NhaSanXuat>
+</root>

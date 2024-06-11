@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema1"
+    targetNamespace="http://tempuri.org/SanPham.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/SanPham.xsd"
+    xmlns:mstns="http://tempuri.org/SanPham.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+    <xs:element name="root">
+        <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="SanPham">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="MaSP">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="TT\d{4}" />
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="TenSP" type="xs:string" />
+                            <xs:element name="Hinh" type="xs:string" />
+                            <xs:element name="DonGia">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:int">
+                                        <xs:minInclusive value="0" />
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="TGBH">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:int">
+                                        <xs:minInclusive value="0" />
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="MoTa" type="xs:string" />
+                            <xs:element name="SoLuongTon">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:int">
+                                        <xs:minInclusive value="0" />
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="XuatXu" type="xs:string" />
+                            <xs:element name="DVT" type="xs:string" />
+                            <xs:element name="DanhGia">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:float">
+                                        <xs:minInclusive value="0" />
+                                        <xs:maxInclusive value="5" />
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="MaNSX" type="xs:int" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

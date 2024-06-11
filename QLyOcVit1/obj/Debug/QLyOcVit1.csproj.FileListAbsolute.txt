@@ -1,0 +1,307 @@
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.csprojResolveAssemblyReference.cache
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\ApplicationInsights.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\csc.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\vbc.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.dll.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Web.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Web.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.pdb
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\ApplicationInsights.config
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\csc.exe
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\System.Collections.Immutable.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\System.Reflection.Metadata.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\vbc.exe
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\VBCSCompiler.exe
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\roslyn\VBCSCompiler.exe.config
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.dll.config
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.pdb
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Web.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.WindowsServer.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.ApplicationInsights.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.xml
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Web.xml
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.WindowsServer.xml
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.ApplicationInsights.xml
+D:\vs_proj\QLyOcVit1\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vs_proj\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.AssemblyReference.cache
+D:\vs_proj\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.CoreCompileInputs.cache
+D:\vs_proj\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.CopyComplete
+D:\vs_proj\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.dll
+D:\vs_proj\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.csprojResolveAssemblyReference.cache
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\ApplicationInsights.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\csc.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\vbc.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.dll.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Web.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Web.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\QLyOcVit1-20240325T002654Z-001\QLyOcVit1\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.pdb
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\ApplicationInsights.config
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\csc.exe
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.dll.config
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\QLyOcVit1.pdb
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Web.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.Web.xml
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\QLyOcVit1\QLyOcVit1\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.CopyComplete
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\QLyOcVit1\obj\Debug\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\QLyOcVit1\obj\Debug\QLyOcVit1.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\ApplicationInsights.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\csc.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\vbc.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.dll.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Web.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Web.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\2230130004_TangChiHao\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.csprojResolveAssemblyReference.cache
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\ApplicationInsights.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\csc.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\vbc.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.dll.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Web.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Web.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.csprojResolveAssemblyReference.cache
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\TangChiHao_2230130004\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.pdb
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\ApplicationInsights.config
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\csc.exe
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.dll.config
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.pdb
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Web.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Web.xml
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.CopyComplete
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.dll
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.pdb
+C:\Users\User\Downloads\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.AssemblyReference.cache
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\ApplicationInsights.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\csc.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\vbc.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.dll.config
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\QLyOcVit1.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Web.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.Web.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.dll
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.pdb
+C:\Users\Sinh Vien.SinhVien-PC\Downloads\BanDoTheThao\QLyOcVit1\obj\Debug\QLyOcVit1.csprojResolveAssemblyReference.cache
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\ApplicationInsights.config
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\csc.exe
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\System.Collections.Immutable.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\System.Reflection.Metadata.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\vbc.exe
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\VBCSCompiler.exe
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\roslyn\VBCSCompiler.exe.config
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\QLyOcVit1.dll.config
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\QLyOcVit1.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\QLyOcVit1.pdb
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.AI.Web.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.AI.WindowsServer.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.ApplicationInsights.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.AI.DependencyCollector.xml
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.AI.Web.xml
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.AI.WindowsServer.xml
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.ApplicationInsights.xml
+D:\vs_proj\BanOcVit\QLyOcVit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vs_proj\BanOcVit\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.AssemblyReference.cache
+D:\vs_proj\BanOcVit\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.CoreCompileInputs.cache
+D:\vs_proj\BanOcVit\QLyOcVit1\obj\Debug\QLyOcVit1.csproj.CopyComplete
+D:\vs_proj\BanOcVit\QLyOcVit1\obj\Debug\QLyOcVit1.dll
+D:\vs_proj\BanOcVit\QLyOcVit1\obj\Debug\QLyOcVit1.pdb

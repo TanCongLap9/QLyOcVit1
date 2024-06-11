@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="QLyOcVit1.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Cửa hàng bán bu lông ốc vít Power 5E</title>
+    <link rel="icon" href="https://cms.mecsu.vn/uploads/media/2023/02/105-removebg-preview.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="/css/styles.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <script src="/scripts/jquery/jquery.min.js"></script>
+    <script src="/scripts/bootstrap/js/bootstrap.min.js"></script>
+    <link href="/scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .material-symbols-outlined {
+          font-variation-settings:
+          'FILL' 0,
+          'wght' 400,
+          'GRAD' 0,
+          'opsz' 40
+        }
+        .material-symbols-outlined-filled {
+          font-family: 'Material Symbols Outlined';
+          font-weight: normal;
+          font-style: normal;
+          font-size: 24px;
+          line-height: 1;
+          letter-spacing: normal;
+          text-transform: none;
+          display: inline-block;
+          white-space: nowrap;
+          word-wrap: normal;
+          direction: ltr;
+          -webkit-font-feature-settings: 'liga';
+          -webkit-font-smoothing: antialiased;
+          font-variation-settings:
+          'FILL' 1,
+          'wght' 400,
+          'GRAD' 0,
+          'opsz' 40
+        }
+    </style>
+</head>
+<body>
+    <header class="mb-4">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+            <a href="/" class="navbar-brand">
+                <img src="https://cms.mecsu.vn/uploads/media/2023/02/105-removebg-preview.png" width="34" height="34" alt="Logo" />
+            </a>
+            <div class="collapse navbar-collapse order-1 order-md-0 dual-collapse2" id="navList">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Trang chính</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="LoaiSanPham.aspx">Sản phẩm</a>
+                    </li>
+                    <li id="quanLy" class="nav-item dropdown" runat="server">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Quản lý</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="NhanVien.aspx">Nhân viên</a>
+                            <a class="dropdown-item" href="KhachHang.aspx">Khách hàng</a>
+                            <a class="dropdown-item" href="HoaDon.aspx">Hoá đơn</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="mx-auto order-0">
+                <h5 class="text-white mx-auto m-0">Cửa hàng bán bu lông ốc vít Power 5E</h5>
+            </div>
+            <div class="navbar-collapse collapse order-3 dual-collapse2">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a href="GioHang.aspx" class="nav-link d-flex align-items-center">
+                            <span class="material-symbols-outlined mr-1">shopping_cart</span>
+                            Giỏ hàng
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle d-flex align-items-center" data-toggle="dropdown">
+                            <span class="material-symbols-outlined mr-1">account_circle</span>
+                            <%= GetAccountName() %>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <a id="dangNhap" href="DangNhap.aspx" class="dropdown-item" runat="server">Đăng nhập</a>
+                            <a id="dangXuat" href="#xacNhanDangXuat" class="dropdown-item" data-toggle="modal" runat="server">Đăng xuất</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <button class="navbar-toggler" data-toggle="collapse" data-target=".dual-collapse2">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </nav>
+    </header>
+    <div class="container" style="min-height: 100vh;">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <div class="modal fade" id="xacNhanDangXuat" runat="server">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Đăng xuất</h3>
+                    <span class="close" data-dismiss="modal">&times;</span>
+                </div>
+                <div class="modal-body">
+                    <p>Bạn có chắc chắn muốn kết thúc phiên đăng nhập này?</p>
+                </div>
+                <div class="modal-footer">
+                    <a href="DangXuat.aspx" class="btn btn-primary">Có</a>
+                    <button class="btn btn-secondary" data-dismiss="modal">Không</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="bg-dark p-4 mt-4 text-white">
+        <div class="container">
+            <div class="row">
+                <ul class="col-md col-12 list-unstyled">
+                    <li><h4 class="mb-3">Thông tin liên lạc</h4></li>
+                    <li class="mb-2"><span class="d-flex"><span class="material-symbols-outlined mr-1">store</span>Trụ sở chính: 3265B đường Kỳ Hoà, P. 11, Q. 5, TP. HCM</span></li>
+                    <li class="mb-2"><span class="d-flex"><span class="material-symbols-outlined mr-1">store</span>Cơ sở 2: 158 đường Bình Hưng Hoà, Q. Bình Tân, TP. HCM</span></li>
+                    <li class="mb-2"><span class="d-flex"><span class="material-symbols-outlined mr-1">alternate_email</span>Email: tttrihoa25@gmail.com</span></li>
+                    <li class="mb-2"><span class="d-flex"><span class="material-symbols-outlined mr-1">phone</span>SĐT: 0902.255.202</span></li>
+                </ul>
+            </div>
+            <p class="text-center m-0">&copy; 2024 Cửa hàng bán bu lông ốc vít Power 5E | Thiết kế bởi Tăng Chí Hào - 2230130004</p>
+        </div>
+    </footer>
+</body>
+</html>

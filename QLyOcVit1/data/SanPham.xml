@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="http://tempuri.org/SanPham.xsd">
+  <SanPham>
+    <MaSP>TT6351</MaSP>
+    <TenSP>Nước ion kiềm Kami-Ion</TenSP>
+    <Hinh>https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(95)/https://cms-prod.s3-sgn09.fptcloud.com/nuoc_uong_ion_kiem_kami_ion_ph9_350ml_1_15c584097d.jpg</Hinh>
+    <DonGia>12000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Nước uống ion kiềm Kami-Ion pH9+ 350ml là giải pháp cung cấp nguồn nước quý giá giàu ion và khoáng chất, giúp bảo vệ cơ thể toàn diện, duy trì độ pH và trung hòa axit; hỗ trợ quá trình trao đổi chất, lưu thông máu và thải độc, trung hòa các gốc tự do, làm chậm quá trình lão hóa.</MoTa>
+    <SoLuongTon>60</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>chai</DVT>
+    <DanhGia>4.5</DanhGia>
+    <MaNSX>3</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT0452</MaSP>
+    <TenSP>Vợt bóng bàn Lạng Sơn</TenSP>
+    <Hinh>https://img.elipsport.vn/larges/2019/5/20/vot-bong-ban-elip-tempo-3-star-1572831053.jpg</Hinh>
+    <DonGia>50000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Vợt bóng bàn Lạng Sơn kiểu dáng cực đẹp với thiết kế tạo điểm nhấn tinh tế và có tính thẩm mỹ cao. Vợt bóng bàn Lạng Sơn là mẫu vợt đạt tiêu chuẩn quốc tế ITTF, cấu tạo với 5 lớp gỗ tự nhiên. Vợt dễ cầm, vừa tay chắc chắn dễ kiểm soát bóng cực tốt.</MoTa>
+    <SoLuongTon>50</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>5</DanhGia>
+    <MaNSX>2</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT6993</MaSP>
+    <TenSP>Bóng rổ Quý Châu</TenSP>
+    <Hinh>https://product.hstatic.net/1000288768/product/3_06f4f016dd3840f89ea5ab8e55433d88_master.jpg</Hinh>
+    <DonGia>120000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Bóng rổ size 7 cho người lớn chơi trong nhà, và ngoài trời. Bền chắc với vỏ ngoài bằng cao su. Độ nảy tốt, nhờ ruột bóng được phủ 100% polyester.</MoTa>
+    <SoLuongTon>30</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>quả</DVT>
+    <DanhGia>4.6</DanhGia>
+    <MaNSX>5</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT4944</MaSP>
+    <TenSP>Bóng chuyền Động Lực DL200</TenSP>
+    <Hinh>https://cdn.chiaki.vn/unsafe/0x960/left/top/smart/filters:quality(75)/https://chiaki.vn/upload/product/2023/05/qua-bong-chuyen-dong-luc-dl200-6475a110c8917-30052023140904.png</Hinh>
+    <DonGia>124000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Quả bóng chuyền Động Lực DL200 được thiết kế và sản xuất theo tiêu chuẩn thi đấu, có độ nảy và độ bám tốt, giúp người chơi dễ nắm bắt bóng và thực hiện kỹ thuật chuẩn xác hơn.</MoTa>
+    <SoLuongTon>45</SoLuongTon>
+    <XuatXu>Việt Nam</XuatXu>
+    <DVT>quả</DVT>
+    <DanhGia>5</DanhGia>
+    <MaNSX>2</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT1585</MaSP>
+    <TenSP>Máy chạy bộ mini Epsilon</TenSP>
+    <Hinh>https://thethaoviet.com.vn/wp-content/uploads/2018/12/May-chay-bo-Mini.jpg</Hinh>
+    <DonGia>14999000</DonGia>
+    <TGBH>24</TGBH>
+    <MoTa>Máy chạy bộ mini Epsilon đơn năng với cải tiến về công suất cùng tính năng vượt trội cho hành trình chinh phục vóc dáng, nâng tầm sức khỏe. Thiết kế với 2 gam màu xám đen được phối hợp hài hòa sẽ biến ngôi nhà của bạn trở thành không gian luyện tập hoàn hảo.</MoTa>
+    <SoLuongTon>20</SoLuongTon>
+    <XuatXu>Philippines</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>4.8</DanhGia>
+    <MaNSX>2</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT6546</MaSP>
+    <TenSP>Găng tay thể thao Adibas</TenSP>
+    <Hinh>https://vnsport.com.vn/wp-content/uploads/2022/07/gang-tay-tap-gym-vnsport-vns0103-4.jpg</Hinh>
+    <DonGia>350000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Găng Tay thể thao Adibas hỗ trợ giảm chai sần lòng bàn tay trong quá trình tập gym, thể hình, workout, parkour, chạy xe,… Sản phẩm bằng da cừu giúp tăng độ bền sản phẩm găng tay.</MoTa>
+    <SoLuongTon>30</SoLuongTon>
+    <XuatXu>Hoa Kỳ</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>3.2</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT8417</MaSP>
+    <TenSP>Phấn tập gym Sports Chalk</TenSP>
+    <Hinh>https://vn-test-11.slatic.net/p/cec21c30cbb1724db2b5e4fab5e1c4da.jpg</Hinh>
+    <DonGia>350000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Bạn hay ra mồ hôi tay? Bạn lo lắng tay của bạn không đủ độ bám, cản trở các bài tập Hít xà, #Dips, #DeadLift… Bạn phải chịu đựng mùi mồ hôi tay bám trên găng tập sau mỗi buổi tập vất vả? GYM CHALK sẽ giải quyết tất cả vấn đề hỗ trợ ma sát làm giảm độ trơn trượt của tay, cho đến khử mùi hôi lòng bàn tay…</MoTa>
+    <SoLuongTon>25</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>3.2</DanhGia>
+    <MaNSX>5</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT0000</MaSP>
+    <TenSP>Găng tay cao su Phù Kim</TenSP>
+    <Hinh>https://pro-pro.com.vn/wp-content/uploads/2019/03/gang-tay-cao-su-phu-kim-600x600.jpg</Hinh>
+    <DonGia>50000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Găng tay cao su Phù Kim giúp những ngày tập luyện tay của bạn đỡ đau hơn vì cơ chế chống ma sát vô cùng hiệu quả của chiếc găng tay này.</MoTa>
+    <SoLuongTon>50</SoLuongTon>
+    <XuatXu>Việt Nam</XuatXu>
+    <DVT>đôi</DVT>
+    <DanhGia>4.8</DanhGia>
+    <MaNSX>2</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT4659</MaSP>
+    <TenSP>Tạ 5kg Funan Fitness model LC-02 (màu xanh biển)</TenSP>
+    <Hinh>https://sasukegym.vn/wp-content/uploads/2020/03/ta-tay-bang-nhua-e1585591103182.jpg</Hinh>
+    <DonGia>65000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Tạ 5kg giúp rèn luyện tay săn chắc, thường được sử dụng trong các phòng gym.</MoTa>
+    <SoLuongTon>40</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>3.7</DanhGia>
+    <MaNSX>2</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT0235</MaSP>
+    <TenSP>Thảm tập yoga Pro-Care</TenSP>
+    <Hinh>https://thamtapyoga.vn/wp-content/uploads/2023/04/Tham-tap-yoga-Pro-Care-dinh-tuyen-TPE-2-lop-6mm-Xanh-com.png</Hinh>
+    <DonGia>99000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Thảm tập yoga Pro-Care TPE 2 lớp 6mm được làm từ chất liệu TPE nguyên bản được chiết xuất từ cao su non thiên nhiên, cùng công nghệ nén tiên tiến mang lại cho thảm có độ bám sàn tối đa.</MoTa>
+    <SoLuongTon>20</SoLuongTon>
+    <XuatXu>Hoa Kỳ</XuatXu>
+    <DVT>thảm</DVT>
+    <DanhGia>4.1</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT2995</MaSP>
+    <TenSP>Áo thun thể dục cổ tròn</TenSP>
+    <Hinh>https://vn-test-11.slatic.net/p/f9fc8ab4f0379844ef96b28cf38cb3d4.jpg</Hinh>
+    <DonGia>140000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Chiếc áo thun thể dục cổ tròn đem lại cảm giác thoải mái cho người mặc trong những ngày tập thể dục.</MoTa>
+    <SoLuongTon>26</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>chiếc</DVT>
+    <DanhGia>2.2</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT2926</MaSP>
+    <TenSP>Máy chạy bộ KingSport KS-2059</TenSP>
+    <Hinh>https://kingsport.vn/image/catalog/2023/T09/may-chay-bo-ks2059-1.jpg</Hinh>
+    <DonGia>15999000</DonGia>
+    <TGBH>24</TGBH>
+    <MoTa>Với khả năng tăng cường thể lực, đốt cháy calo và rèn luyện sức bền, máy chạy bộ là một công cụ tuyệt vời để chúng ta bắt đầu tập luyện tại nhà. Chúng vừa giúp cải thiện sức khỏe vừa giúp xây dựng một phong cách sống lành mạnh. Hãy bắt đầu một cuộc hành trình rèn luyện thể chất mới với sự tự do và hứng khởi trong từng bước chân với thiết bị này nhé.</MoTa>
+    <SoLuongTon>10</SoLuongTon>
+    <XuatXu>Hoa Kỳ</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>4</DanhGia>
+    <MaNSX>5</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT4562</MaSP>
+    <TenSP>Găng tay tập gym Cô Hai</TenSP>
+    <Hinh>https://ptfitness.vn/wp-content/uploads/2022/04/gang-tay-tap-gym-gia-re-cuon-co-tay-pt6126-p2.jpg</Hinh>
+    <DonGia>79000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Găng tay tập gym Cô Hai là găng tay có độ đàn hồi tốt, chống thấm mồ hôi và mang lại cảm giác thoải mái khi đeo, đặc biệt vào những lúc tập thể dục.</MoTa>
+    <SoLuongTon>40</SoLuongTon>
+    <XuatXu>Đài Loan</XuatXu>
+    <DVT>đôi</DVT>
+    <DanhGia>4.9</DanhGia>
+    <MaNSX>5</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT2655</MaSP>
+    <TenSP>Tạ tập tay nhựa Khởi Nguyên</TenSP>
+    <Hinh>https://thethaokhoinguyen.com/wp-content/uploads/2018/11/ta-tay-nhua.jpg</Hinh>
+    <DonGia>30000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Quả tạ tay nhựa là dụng cụ tập Gym được sử dụng phổ biến ở tại nhà, phòng trọ, khu ký túc xá sinh viên. Tạ tay nhựa được làm bằng hỗn hợp xi măng + cát bọc nhựa PVC ở ngoài.</MoTa>
+    <SoLuongTon>0</SoLuongTon>
+    <XuatXu>Việt Nam</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>3.8</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT0625</MaSP>
+    <TenSP>Quả bóng đá F500 Light Hybrid cỡ 5</TenSP>
+    <Hinh>https://contents.mediadecathlon.com/p1988891/38799a5738e9831524b768e3919612cf/p1988891.jpg?f=650x650&amp;format=auto</Hinh>
+    <DonGia>325000</DonGia>
+    <TGBH>2</TGBH>
+    <MoTa>Sản phẩm được thiết kế cho trẻ em sử dụng. Sản phẩm nhẹ hơn và giúp trẻ chơi dễ dàng hơn, dù giải trí hay tại câu lạc bộ. Quả bóng này có trọng lượng nhẹ hơn 15% so với quả bóng truyền thống.</MoTa>
+    <SoLuongTon>2</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>quả</DVT>
+    <DanhGia>4.2</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT4062</MaSP>
+    <TenSP>Bình giữ nhiệt cao cấp L33-780ml</TenSP>
+    <Hinh>https://bizweb.dktcdn.net/thumb/1024x1024/100/236/309/products/binh-giu-nhiet-cao-cap-montblanc-l33-1.jpg?v=1680249964153</Hinh>
+    <DonGia>200000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Bình giữ nhiệt cao cấp L33-780ml chất liệu inox 304 đảm bảo hiệu quả giữ nhiệt tốt và tuyệt đối an toàn cho sức khỏe người sử dụng. Lớp vỏ nhám cùng với nắp đậy kín đáo hạn chế thoát nhiệt và đổ mồ hôi. Quai xách cầm tay tiện lợi thích hợp mỗi lúc di chuyển và mang đi thích hợp cho những người thường xuyên làm việc xa ở ngoài.</MoTa>
+    <SoLuongTon>28</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>bình</DVT>
+    <DanhGia>4.1</DanhGia>
+    <MaNSX>3</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT5656</MaSP>
+    <TenSP>Bình giữ nhiệt BAOL L32 1000ML</TenSP>
+    <Hinh>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOb2fRq44OTJHJi4xGRtZWxoihIOVGk-t766NpAuS0iw&amp;s</Hinh>
+    <DonGia>112000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Bình giữ nhiệt BAOL 1000ml, bình nước thể thao dung tích lớn sở hữu thiết kế “đồ sộ” cùng kiểu dáng sang trọng. Nó mang đến cảm giác thuận tiện cho dân tập luyện thể thao và những người thường xuyên ra ngoài.</MoTa>
+    <SoLuongTon>16</SoLuongTon>
+    <XuatXu>Hàn Quốc</XuatXu>
+    <DVT>bình</DVT>
+    <DanhGia>3.9</DanhGia>
+    <MaNSX>5</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT2543</MaSP>
+    <TenSP>Đồng hồ Garmin Forerunner 245</TenSP>
+    <Hinh>https://antien.vn/uploaded/Garmin%20Forerunner%20245/dong-ho-thong-minh-Garmin-Forerunner-245-chinh-hang.jpg</Hinh>
+    <DonGia>15999000</DonGia>
+    <TGBH>12</TGBH>
+    <MoTa>Garmin Forerunner 245 và Garmin Forerunner 245 Music là 2 sản phẩm đồng hồ thông minh hỗ trợ thể thao mới nhất của Garmin. Cũng giống như những chiếc Smartwatch thể thao thế hệ trước, Garmin Forerunner 245/245 Music giúp người dùng nâng cao và thúc đẩy lối sống lành mạnh và năng động. Dù bạn chạy bộ, đạp xe, bơi lội hay chỉ đơn giản là muốn duy trì hoạt động suốt cả ngày, 2 chiếc Đồng hồ Garmin này đều có thể giúp người dùng bình thường hay các vận động viên ở mọi cấp độ đạt được mục tiêu về sức khỏe và thể lực của họ.</MoTa>
+    <SoLuongTon>0</SoLuongTon>
+    <XuatXu>Hoa Kỳ</XuatXu>
+    <DVT>chiếc</DVT>
+    <DanhGia>5</DanhGia>
+    <MaNSX>5</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT2925</MaSP>
+    <TenSP>Xe đạp leo núi Kingsport XD52</TenSP>
+    <Hinh>https://kingsport.vn/image/catalog/product/xe_dap/xe_dap_ngoai_troi/xe-dap-the-thao-kingsport-xd-052.png</Hinh>
+    <DonGia>1699000</DonGia>
+    <TGBH>12</TGBH>
+    <MoTa>Thuộc dòng xe đạp thể thao đa năng từ Tập Đoàn Kingsport, sản phẩm được thiết kế dựa trên những nhu cầu đi lại, tập luyện cơ bản phổ biến cho người dân Việt Nam. Với thiết kế đơn giản, nhưng không kém phần tinh tế, thanh lịch, tốc độ vừa phải với tính ổn định và cân bằng cao, xe mang tính ứng dụng cao cho tất cả mọi người từ học sinh, sinh viên, anh chị em công sở, người lớn tuổi có nhu cầu thích đi xe đạp hay đơn giản hơn nữa là thay đổi “vị” trải nghiệm 1 cảm giác hoàn toàn mới - vi vu trên phố phường nhưng không nhàm chán.</MoTa>
+    <SoLuongTon>42</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>chiếc</DVT>
+    <DanhGia>2.5</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT2544</MaSP>
+    <TenSP>Giàn tạ Đa Năng Kingsport BK-1999 New</TenSP>
+    <Hinh>https://thethaonamviet.vn/wp-content/uploads/2022/03/xa-don-xa-kep-dieu-chinh-KU-612-5.jpg</Hinh>
+    <DonGia>17900000</DonGia>
+    <TGBH>24</TGBH>
+    <MoTa>Giàn tạ đa năng Kingsport BK-1999 New được ra mắt vào tháng 7, là bản nâng cấp của giàn tạ đa năng Kingsport BK-1999 Pro thừa hưởng những đặc điểm nổi bật của model trước đó kèm theo những thiết kế được tối ưu hơn. Giàn tạ đa năng Kingsport BK-1999 New có thiết kế hiện đại, tích hợp các chức năng tập luyện chuyên nghiệp như một gymer thực thụ, sở hữu giàn tạ này giúp bạn có tới 15 bài tập đa dạng một thân hình săn chắc và vóc dáng như mơ tại ngôi nhà của bạn. Còn chờ gì mà không rinh ngay giàn tạ đa năng Kingsport về nhà bằng cách gọi ngay về Hotline: 1800 6862 được tư vấn miễn phí và mua hàng nhanh chóng.</MoTa>
+    <SoLuongTon>25</SoLuongTon>
+    <XuatXu>Nhật Bản</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>4.8</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT6455</MaSP>
+    <TenSP>Xe đạp tập thể dục Air Bike</TenSP>
+    <Hinh>https://lifesport.vn/wp-content/uploads/2023/07/xe-dap-tap-the-duc-air-bike-2.jpg</Hinh>
+    <DonGia>2999000</DonGia>
+    <TGBH>24</TGBH>
+    <MoTa>Xe đạp tập thể dục Air Bike phù hợp với mọi thành viên trong gia đình, giúp người già tránh được các bệnh về tim mạch, huyết áp, tiểu đường, xương khớp, với người trẻ thì giữ được vóc dáng cân đối và luôn tràn đầy sức sống, trẻ em đang phát triển thì sẽ giúp hệ cơ xương được bền vững hơn phát triển tốt hơn và toàn diện hơn.</MoTa>
+    <SoLuongTon>2</SoLuongTon>
+    <XuatXu>Nhật Bản</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>3.9</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT2233</MaSP>
+    <TenSP>Kìm bóp tay có bộ đếm số A100</TenSP>
+    <Hinh>https://salt.tikicdn.com/cache/w1200/ts/product/ba/f5/66/b3c53ee6e6d5ceff9c35e27a17fa68f2.jpg</Hinh>
+    <DonGia>35000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Kìm bóp tay chữ A điều chỉnh lực là dụng cụ tập cơ tay giúp hỗ trợ đắc lực cho việc tập cơ bàn tay và ngón tay, phòng chống các bệnh xương khớp, đặc biệt thích hợp cho người tập võ, tập thể lực hoặc cho nhân viên văn phòng muốn luyện tập cơ tay do gõ bàn phím nhiều. Sản phẩm có thể sử dụng đơn giản, thiết kế nhỏ gọn dễ dàng mang theo, có thể luyện tập mọi nơi, mọi lúc.</MoTa>
+    <SoLuongTon>109</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>chiếc</DVT>
+    <DanhGia>4.3</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT4533</MaSP>
+    <TenSP>Quạt bóp mini cầm tay Pony BBT Global 998-45A</TenSP>
+    <Hinh>https://sudospaces.com/babycuatoi/2020/05/quat-mini-cam-tay-bbt-global-998-45a.jpg</Hinh>
+    <DonGia>32000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Quạt bóp mini cầm tay pony đáng yêu cho bé với đủ 4 màu: hồng, tím, xanh, vàng xinh xắn.</MoTa>
+    <SoLuongTon>42</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>chiếc</DVT>
+    <DanhGia>1.6</DanhGia>
+    <MaNSX>5</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT4357</MaSP>
+    <TenSP>Vợt Cầu Lông Vicleo Power 810</TenSP>
+    <Hinh>https://cdn.shopvnb.com/uploads/gallery/vot-cau-long-vicleo-power-810-chinh-hang.webp</Hinh>
+    <DonGia>390000</DonGia>
+    <TGBH>4</TGBH>
+    <MoTa>Vợt cầu lông Vicleo Power 810 chính hãng là sản phẩm vợt cầu lông được sản xuất bởi Vicleo, là một trong những hãng vợt cầu lông có giá rẻ nhất thị trường. Thiết kế chủ đạo màu vàng và đen kết hợp cùng họa tiết nhỏ màu xanh lá làm cho cây vợt có cái nhìn lạ mắt nhưng không kém phần thu hút.</MoTa>
+    <SoLuongTon>29</SoLuongTon>
+    <XuatXu>Hoa Kỳ</XuatXu>
+    <DVT>cây</DVT>
+    <DanhGia>4.9</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT5464</MaSP>
+    <TenSP>Dây kéo tay lò xo 5 sợi</TenSP>
+    <Hinh>https://product.hstatic.net/1000398692/product/day_keo_tay_lo_xo_64c16fad2945492d9f7369133a629a63_master.jpeg</Hinh>
+    <DonGia>120000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Sản phẩm chuyên dụng cho các bài tập cơ tay, cơ ngực và cơ vai với lực kéo tay và lực đàn hồi của lò xo, được thiết kế đơn giản với tay cầm thoải mái.</MoTa>
+    <SoLuongTon>11</SoLuongTon>
+    <XuatXu>Việt Nam</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>4.2</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT4464</MaSP>
+    <TenSP>Bóng rổ cao su ProStar số 6</TenSP>
+    <Hinh>https://thethaothienlong.vn/wp-content/uploads/2021/07/qua-bong-ro-hoc-sinh-prostar-5-300x300.jpg</Hinh>
+    <DonGia>140000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Quả bóng rổ Prostar số 6  là dòng sản phẩm bóng rổ cao su giá rẻ kích thước vừa, chủ yếu dùng cho để học sinh tập luyện hoặc để rèn luyện, chơi thể thao tại nhà. Bóng rổ Prostar số 6 được làm từ cao su thiên nhiên, độ bền tốt, với rất nhiều ưu điểm: Độ đàn hồi cao, chịu nhiệt tốt, chịu mài mòn tốt, khả năng chống thấm nước cao.</MoTa>
+    <SoLuongTon>5</SoLuongTon>
+    <XuatXu>Việt Nam</XuatXu>
+    <DVT>quả</DVT>
+    <DanhGia>4.2</DanhGia>
+    <MaNSX>2</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT7369</MaSP>
+    <TenSP>Ghế tập ta đa năng DV 606</TenSP>
+    <Hinh>https://www.thethaodaiviet.vn/images/upload/Image/ghe-tap-ta-dv-606-1602467427607.jpg</Hinh>
+    <DonGia>1550000</DonGia>
+    <TGBH>24</TGBH>
+    <MoTa>Bạn đang tìm một phụ kiện giúp tập luyện tại nhà hoặc tại phòng gym của mình ? Và đây chính là sản phẩm bạn cần có: Ghế tập tạ đa năng DV 606. Ghế tập tạ này là sản phẩm đa năng có thể hỗ trợ các bài tập tạ tay, tập vợt tạ, tập đẩy ngực... vô cùng đơn giãn và dễ dàng.</MoTa>
+    <SoLuongTon>29</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>chiếc</DVT>
+    <DanhGia>4.2</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT4665</MaSP>
+    <TenSP>Đồ chơi giảm stress Fidget Cube 711</TenSP>
+    <Hinh>https://cdn0.fahasa.com/media/catalog/product/i/m/image_237764.jpg</Hinh>
+    <DonGia>44000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Đồ chơi giảm stress Fidget Cube 711 giúp làm giảm căng thẳng của bạn sau những ngày làm việc vất vả, mệt nhọc.</MoTa>
+    <SoLuongTon>24</SoLuongTon>
+    <XuatXu>Trung Quốc</XuatXu>
+    <DVT>cái</DVT>
+    <DanhGia>3.7</DanhGia>
+    <MaNSX>4</MaNSX>
+  </SanPham>
+  <SanPham>
+    <MaSP>TT4643</MaSP>
+    <TenSP>Bóng tập yoga Kingsport</TenSP>
+    <Hinh>https://kingsport.vn/image/catalog/bong-yoga-tron.jpg</Hinh>
+    <DonGia>200000</DonGia>
+    <TGBH>0</TGBH>
+    <MoTa>Bóng tập Yoga loại trơn giúp cơ thể bạn thêm khoẻ mạnh, mềm dẻo, một cơ bắp thật săn chắc và khả năng cân bằng tốt chỉ bằng những bài tập đơn giản và nhẹ nhàng.</MoTa>
+    <SoLuongTon>26</SoLuongTon>
+    <XuatXu>Quảng Châu</XuatXu>
+    <DVT>quả</DVT>
+    <DanhGia>4.2</DanhGia>
+    <MaNSX>5</MaNSX>
+  </SanPham>
+</root>

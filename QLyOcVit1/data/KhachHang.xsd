@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="http://tempuri.org/KhachHang.xsd"
+           targetNamespace="http://tempuri.org/KhachHang.xsd"
+           xmlns:mstns="http://tempuri.org/KhachHang.xsd"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="KhachHang">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GioiTinh" type="xs:boolean" />
+                <xs:element name="Email">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="\w+@\w+\.\w+" />
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="SDT">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="\d{8,11}" />
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+              <xs:element name="NgaySinh" type="xs:date" />
+              <xs:element name="TaiKhoan" type="xs:string" />
+              <xs:element name="MatKhau" type="xs:string" />
+            </xs:sequence>
+            <xs:attribute name="MaKH" type="xs:int" />
+            <xs:attribute name="TenKH" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

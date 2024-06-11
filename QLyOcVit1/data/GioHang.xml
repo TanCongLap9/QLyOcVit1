@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="http://tempuri.org/GioHang.xsd">
+  <GioHang TaiKhoan="hoangkha">
+    <MaSP>TT4944</MaSP>
+    <MaSP>TT6546</MaSP>
+  </GioHang>
+  <GioHang TaiKhoan="nva">
+    <MaSP>TT6993</MaSP>
+  </GioHang>
+  <GioHang TaiKhoan="fdsa">
+    <MaSP>TT4562</MaSP>
+    <MaSP>TT4562</MaSP>
+    <MaSP>TT4562</MaSP>
+    <MaSP>TT2925</MaSP>
+  </GioHang>
+  <GioHang TaiKhoan="admin">
+    <MaSP>TT6993</MaSP>
+    <MaSP>TT6546</MaSP>
+    <MaSP>TT1585</MaSP>
+    <MaSP>TT4944</MaSP>
+    <MaSP>TT4944</MaSP>
+    <MaSP>TT1585</MaSP>
+    <MaSP>TT1585</MaSP>
+  </GioHang>
+  <GioHang TaiKhoan="khacduy">
+    <MaSP>TT6993</MaSP>
+    <MaSP>TT0235</MaSP>
+    <MaSP>TT0235</MaSP>
+  </GioHang>
+</root>

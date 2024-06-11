@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="http://tempuri.org/KhachHang.xsd">
+  <KhachHang MaKH="1" TenKH="Nguyễn Văn A">
+    <GioiTinh>false</GioiTinh>
+    <Email>nguyenvana@email.com</Email>
+    <SDT>0912345678</SDT>
+    <NgaySinh>2002-12-03</NgaySinh>
+    <TaiKhoan>nva</TaiKhoan>
+    <MatKhau>password</MatKhau>
+  </KhachHang>
+  <KhachHang MaKH="2" TenKH="Ha Hà Há">
+    <GioiTinh>true</GioiTinh>
+    <Email>hahaha@email.com</Email>
+    <SDT>0123456789</SDT>
+    <NgaySinh>2003-06-10</NgaySinh>
+    <TaiKhoan>hahaha</TaiKhoan>
+    <MatKhau>hahaha</MatKhau>
+  </KhachHang>
+  <KhachHang MaKH="3" TenKH="Lý Thiên Nga">
+    <GioiTinh>false</GioiTinh>
+    <Email>thiennga@email.com</Email>
+    <SDT>0123123123</SDT>
+    <NgaySinh>1998-01-19</NgaySinh>
+    <TaiKhoan>thiennga</TaiKhoan>
+    <MatKhau>12345</MatKhau>
+  </KhachHang>
+  <KhachHang MaKH="0" TenKH="Nguyễn Tương Phùng">
+    <GioiTinh>false</GioiTinh>
+    <Email>fd@gma.com</Email>
+    <SDT>0123456789</SDT>
+    <NgaySinh>2005-05-06</NgaySinh>
+    <TaiKhoan>fdsa</TaiKhoan>
+    <MatKhau>12345</MatKhau>
+  </KhachHang>
+  <KhachHang MaKH="4" TenKH="Đỗ Thị Kỳ Thi">
+    <GioiTinh>true</GioiTinh>
+    <Email>kythi@gmail.com</Email>
+    <SDT>0123456789</SDT>
+    <NgaySinh>2000-02-06</NgaySinh>
+    <TaiKhoan>kythikythi</TaiKhoan>
+    <MatKhau>kythi</MatKhau>
+  </KhachHang>
+  <KhachHang MaKH="5" TenKH="Khang Hy">
+    <GioiTinh>false</GioiTinh>
+    <Email>khanghy@gmail.com</Email>
+    <SDT>099876543210</SDT>
+    <NgaySinh>2000-06-05</NgaySinh>
+    <TaiKhoan>khanghy</TaiKhoan>
+    <MatKhau>khanghy</MatKhau>
+  </KhachHang>
+  <KhachHang MaKH="6" TenKH="Xa Mẫn Lâm">
+    <GioiTinh>false</GioiTinh>
+    <Email>xaman@def.com</Email>
+    <SDT>0912345678</SDT>
+    <NgaySinh>2000-02-02</NgaySinh>
+    <TaiKhoan>xamanlam1</TaiKhoan>
+    <MatKhau>12345</MatKhau>
+  </KhachHang>
+  <KhachHang MaKH="7" TenKH="Bồ Công Anh">
+    <GioiTinh>false</GioiTinh>
+    <Email>bca@gmail.com</Email>
+    <SDT>0555666777</SDT>
+    <NgaySinh>1992-05-01</NgaySinh>
+    <TaiKhoan>boconganh</TaiKhoan>
+    <MatKhau>boconganh</MatKhau>
+  </KhachHang>
+  <KhachHang MaKH="8" TenKH="sdf">
+    <GioiTinh>false</GioiTinh>
+    <Email>sdfa@gmail.com</Email>
+    <SDT>01234567</SDT>
+    <NgaySinh>2000-02-02</NgaySinh>
+    <TaiKhoan>abcde</TaiKhoan>
+    <MatKhau>abcde</MatKhau>
+  </KhachHang>
+  <KhachHang MaKH="9" TenKH="Hà Khắc Duy">
+    <GioiTinh>false</GioiTinh>
+    <Email>hakhacduy@gmail.com</Email>
+    <SDT>09425326546</SDT>
+    <NgaySinh>2000-02-05</NgaySinh>
+    <TaiKhoan>khacduy</TaiKhoan>
+    <MatKhau>khacduy</MatKhau>
+  </KhachHang>
+</root>

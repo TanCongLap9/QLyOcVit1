@@ -1,0 +1,22 @@
+﻿#back {
+    position: relative;
+    text-decoration: none;
+}
+
+.underline-slide {
+    content: "";
+    width: 0;
+    height: 1px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    transition: 0.5s ease-out;
+}
+
+.catalog .card:hover {
+    background: gainsboro;
+}
+
+#back:hover .underline-slide, .form-control:focus .underline-slide {
+    width: 100%;
+}

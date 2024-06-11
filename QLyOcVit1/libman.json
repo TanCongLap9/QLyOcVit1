@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.0.0",
+      "destination": "scripts/jquery/"
+    },
+    {
+      "library": "bootstrap@4.6.2",
+      "destination": "scripts/bootstrap/"
+    }
+  ]
+}
