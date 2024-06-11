@@ -21,4 +21,4 @@ Xây dựng web quản lý bán ốc vít.
 4. Về lại Visual Studio, chạy ứng dụng web bằng cách nhấn `F5`.
 
 ## Thư viện ảnh
-Xem ở thư mục <a href="blob/main/screenshots">screenshots</a>.
+Xem ở thư mục <a href="screenshots">screenshots</a>.
