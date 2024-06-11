@@ -1,4 +1,6 @@
 # QLyOcVit1
+![Trang chủ](screenshots/Picture5.png)
+
 Xây dựng web quản lý bán ốc vít.
 
 Đây là một dự án trường.
@@ -17,3 +19,6 @@ Xây dựng web quản lý bán ốc vít.
 2. Mở file `.sln` bằng Visual Studio.
 3. Bật SQL Server và kéo thả file `.sql` vào SQL Server và chạy lệnh bằng nút `F5`.
 4. Về lại Visual Studio, chạy ứng dụng web bằng cách nhấn `F5`.
+
+## Thư viện ảnh
+Xem ở thư mục <a href="blob/main/screenshots">screenshots</a>.
