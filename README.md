@@ -1,7 +1,7 @@
 # QLyOcVit1
 ![Trang chủ](screenshots/Picture5.png)
 
-Xây dựng web quản lý bán ốc vít.
+Trang web bán ốc vít Power 5E.
 
 Đây là một dự án trường.
 
