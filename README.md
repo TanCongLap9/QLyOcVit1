@@ -21,4 +21,4 @@ Trang web bán ốc vít Power 5E.
 4. Về lại Visual Studio, chạy ứng dụng web bằng cách nhấn `F5`.
 
 ## Thư viện ảnh
-Xem ở thư mục <a href="screenshots">screenshots</a>.
+Xem ở thư mục [screenshots](screenshots).
